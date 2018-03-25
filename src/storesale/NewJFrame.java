@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Gabriel Hurtado
+ * March 21,2018
+ * A Program that ALLOWS PEOPLE TO SEE THE DISCOUNT THEY GET WHEN BUYING.
  */
 
 package storesale;
@@ -139,7 +139,8 @@ System.exit(0);
     }//GEN-LAST:event_jMenuItem2ActionPerformed
 
     private void discountOutputActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_discountOutputActionPerformed
-        // TODO add your handling code here:
+        // Tthe algorythm anf if statement used in this program. 
+        
     }//GEN-LAST:event_discountOutputActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
